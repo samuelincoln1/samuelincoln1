@@ -43,6 +43,7 @@ I'm a **Cloud Engineer** with background in Software Engineering, passionate abo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -63,24 +64,11 @@ I'm a **Cloud Engineer** with background in Software Engineering, passionate abo
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![CodeFlow](https://img.shields.io/badge/🔄_CodeFlow-Automated_CI/CD_Pipeline-blue?style=for-the-badge)](https://samuellincoln.com/projects/codeflow)
-[![Serverless Logs](https://img.shields.io/badge/📊_Serverless-Logs_Analyzer-green?style=for-the-badge)](https://samuellincoln.com/projects/serverless-logs-analyzer)
-[![Infrastructure](https://img.shields.io/badge/🏗️_Infrastructure-as_Code-orange?style=for-the-badge)](https://samuellincoln.com/projects/infra-as-code)
-
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuelincoln1&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelincoln1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
