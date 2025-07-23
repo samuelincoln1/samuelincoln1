@@ -81,34 +81,3 @@ I'm a **Cloud Engineer** with background in Software Engineering, passionate abo
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/5d8faef4-05ba-48e6-85a9-070ff8e3f201/public_url)
 
 </div>
-
----
-
-## 🌐 Languages
-
-- 🇧🇷 **Portuguese:** Native
-- 🇺🇸 **English:** Advanced
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing **cloud engineering**, **DevOps**, **scalable architectures**, or any interesting project!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes-213429209/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://samuellincoln.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelincoln1@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"A well-designed cloud scales, reduces costs, and improves reliability. Good architecture practices and automation make the difference."*
-
-**⭐ If you like my projects, give them a star! ⭐**
-
-</div>
