@@ -25,7 +25,7 @@ I'm a **Cloud Engineer** with background in Software Engineering, passionate abo
 - ☁️ **AWS Certified Solutions Architect Associate** (SAA-C03)
 - 🔧 Focused on **Cloud Engineering**, **DevOps**, and **Automation**
 - 🌱 Always learning new technologies and best practices
-- 📚 Fascinated by traveling, reading, and... cats! 🐱
+- 📚 I love traveling, reading, and... cats! 🐱
 
 ---
 
