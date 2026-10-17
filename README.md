@@ -21,7 +21,7 @@
 
 I'm a **Cloud Engineer** with background in Software Engineering, passionate about creating scalable and efficient solutions. Specialized in **AWS**, **automation**, and **DevOps**, I transform complex challenges into robust solutions that ensure performance, security, and reliability.
 
-- 🎓 **Software Engineering** - PUC Minas (2026)
+- 🎓 **Software Engineering** - PUC Minas
 - ☁️ **AWS Certified Solutions Architect Associate** (SAA-C03)
 - 🔧 Focused on **Cloud Engineering**, **DevOps**, and **Automation**
 - 🌱 Always learning new technologies and best practices
